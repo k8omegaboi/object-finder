@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+}
+.heading , .note
+{
+    width: 100%;
+}
+canvas
+{
+    border-color: black;
+    margin: 20px;
+}
